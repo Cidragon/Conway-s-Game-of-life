@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1743539062
+icon.svg::CompressedTexture2D/CompressedTexture2D::8623033851517056975::1743538460::1743538805::1::::<><><>0<>0<>ff80cb12f15cc53e672be094e9315b4d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.tscn::PackedScene::8568173116940965904::1743539062::0::1::::<><><>0<>0<><>::uid://dxxqckawjv8nm::::res://main.gd<>uid://byrh6cth5d6a3::::res://assets/8x8-black.png
+main.gd::GDScript::8822061712815467842::1743539036::0::1::::<>Node2D<><>0<>0<><>::
+::res://assets/::1743539106
+8x8-black.png::CompressedTexture2D::4106527866141587504::1743538737::1743538899::1::::<><><>0<>0<>76c3b77b33852de89f678893e51dd891<>res://.godot/imported/8x8-black.png-e1cef6d6319fee8519f374b50889f921.ctex::
+8x8-white.png::CompressedTexture2D::2793608716555212079::1743539092::1743539112::1::::<><><>0<>0<>205989a1fd59794db8be3016bef235e6<>res://.godot/imported/8x8-white.png-7db2f7bdcd37988d385d2a437e69df89.ctex::
